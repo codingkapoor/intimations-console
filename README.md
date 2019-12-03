@@ -1,5 +1,5 @@
 # simple-lms-web
-Web portal for simple lms
+Web console for Intimations
 
 ## Scope
 1. HR should be able to add, remove and update editable employee information.
