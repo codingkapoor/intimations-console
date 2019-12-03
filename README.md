@@ -1,4 +1,4 @@
-# simple-lms-web
+# intimations-console
 Web console for Intimations
 
 ## Scope
