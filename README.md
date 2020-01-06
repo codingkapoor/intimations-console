@@ -1,4 +1,8 @@
-# intimations-console
+<p align="center">
+  <img width="400" height="400" src="https://github.com/codingkapoor/intimations-console/blob/master/logo.png">
+</p>
+
+# Intimations Console
 Web console for Intimations
 
 *Platform: [intimations-platform](https://github.com/codingkapoor/intimations-platform), Mobile App: [intimations](https://github.com/codingkapoor/intimations)*
