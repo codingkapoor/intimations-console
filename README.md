@@ -1,11 +1,11 @@
-<p align="center">
-  <img width="300" height="300" src="https://github.com/codingkapoor/intimations-console/blob/master/logo.png">
-</p>
-
 # Intimations Console
 Web console for Intimations
 
 *Platform: [intimations-platform](https://github.com/codingkapoor/intimations-platform), Mobile App: [intimations](https://github.com/codingkapoor/intimations)*
+
+<p align="left">
+  <img width="200" height="200" src="https://github.com/codingkapoor/intimations-console/blob/master/logo.png">
+</p>
 
 ## Scope
 1. Admin should be able to add, remove and update editable employee information.
